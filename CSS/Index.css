@@ -1,0 +1,101 @@
+html {
+    margin-bottom: 0%;
+    display:grid
+}
+header {
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    height: 100px;
+}
+body {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    display: grid;
+}
+ul {
+    display: flex;
+}
+a {
+    text-decoration: none;
+}
+#nag {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: black;
+    background-color: white;
+    padding: 10px 15px 10px 15px;
+    border-radius: 50px;
+    margin-left: 10px;
+    height: 15px;
+}
+#nag a {
+    color: black;
+}
+.nig a {
+    color: white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nig {
+    margin-top: 10px;
+    margin-bottom: 25px;
+    padding-top: 10px;
+}
+div.space {
+    display: flex;
+    margin-left: auto;
+}
+img {
+    width: 200px;
+    height: 130px;
+    border-radius: 10px;
+}
+.checkbox {
+    display: flex;
+}
+#na {
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+div.cent {
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+h2 {
+    margin-bottom: 0%;
+}
+p {
+    margin-top: 0%;
+}
+div.black {
+    background-color: black;
+    width: 13px;
+    height: 13px;
+    border-radius: 50px;
+    margin-left: 3px;
+}
+div.infocube {
+    width: 200px;
+    height: 320px;
+    margin-left: 40px;
+}
+div#sites {
+    display: flex;
+    flex-wrap: wrap;
+}
+.fom {
+    width: auto;
+}
+footer {
+    background-color: rgb(0, 0, 0);
+    margin-top: 27%;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: auto;
+}
+
